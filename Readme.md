@@ -2,7 +2,14 @@
 This Python notebook presents a Neural Style Transfer project, an image processing technique based on neural networks. It allows you to combine the styles of a source image (style reference image) with the content of a target image to generate a new image.
 
 ## 🖼️ Preview
-<div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center; gap: 64px; padding: 64px; box-sizing: border-box">
+### Van Gogh
+<div align="center">
+    <img src="./output/paris_la_nuit_étoilée.jpg" style="width: 50%" />
+    <img src="./output/paris_la_nuit_étoilée_full_result.png" style="width: 100%" />
+</div>
+
+### Monet
+<div align="center">
     <img src="./output/4_4_2_0_0/image_10000.jpg" style="width: 50%" />
     <img src="./output/5x5.png" style="width: 100%" />
 </div>
